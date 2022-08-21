@@ -1,0 +1,14 @@
+{
+  "name": "reproduction",
+  "private": "true",
+  "type": "module",
+  "dependencies": {
+    "@rollup/pluginutils": "^4.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
